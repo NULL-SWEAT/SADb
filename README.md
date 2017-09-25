@@ -1,0 +1,2 @@
+# SADb
+Simple Anime Database
